@@ -184,7 +184,7 @@ function getFullNames(runners) {
    runners.forEach(function(element) {
      runnersNames.push(`${items.last_name}, ${items.first-name}`);
    })
-       return runnersNames;
+       return runnerNames;
 /**
  * ### Challenge `firstNamesAllCaps`
  * 
